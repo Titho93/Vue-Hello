@@ -2,10 +2,13 @@ const { createApp }  =  Vue;
 
 createApp({
 
+
   data() {
 
     return {
-      saluto: 'Imparando Vue'
+      saluto: 'Imparando Vue',
+      
+
     }
   }
 
